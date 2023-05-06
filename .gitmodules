@@ -1,27 +1,27 @@
 [submodule "techpack/audio"]
 	path = techpack/audio
-	url = https://github.com/MotorolaMobilityLLC/vendor-qcom-opensource-audio-kernel.git
+	url = https://github.com/Nobooooody/vendor-qcom-opensource-audio-kernel.git
 [submodule "drivers/staging/qca-wifi-host-cmn"]
 	path = drivers/staging/qca-wifi-host-cmn
-	url = https://github.com/MotorolaMobilityLLC/vendor-qcom-opensource-wlan-qca-wifi-host-cmn.git
+	url = https://github.com/Nobooooody/vendor-qcom-opensource-wlan-qca-wifi-host-cmn.git
 [submodule "drivers/staging/fw-api"]
 	path = drivers/staging/fw-api
-	url = https://github.com/MotorolaMobilityLLC/vendor-qcom-opensource-wlan-fw-api
+	url = https://github.com/Nobooooody/vendor-qcom-opensource-wlan-fw-api
 [submodule "drivers/staging/qcacld-3.0"]
 	path = drivers/staging/qcacld-3.0
-	url = https://github.com/MotorolaMobilityLLC/vendor-qcom-opensource-wlan-qcacld-3.0
+	url = https://github.com/Nobooooody/vendor-qcom-opensource-wlan-qcacld-3.0
 [submodule "techpack/video"]
 	path = techpack/video
-	url = https://github.com/MotorolaMobilityLLC/kernel-msm-techpack-video
+	url = https://github.com/Nobooooody/kernel-msm-techpack-video
 [submodule "techpack/display"]
 	path = techpack/display
-	url = https://github.com/MotorolaMobilityLLC/kernel-msm-techpack-display
+	url = https://github.com/Nobooooody/kernel-msm-techpack-display
 [submodule "techpack/camera"]
 	path = techpack/camera
-	url = https://github.com/MotorolaMobilityLLC/kernel-msm-techpack-camera
+	url = https://github.com/Nobooooody/kernel-msm-techpack-camera
 [submodule "arch/arm64/boot/dts/camera-devicetree"]
 	path = arch/arm64/boot/dts/camera-devicetree
-	url = https://github.com/MotorolaMobilityLLC/kernel-camera-devicetree
+	url = https://github.com/Nobooooody/kernel-camera-devicetree
 [submodule "arch/arm64/boot/dts/vendor"]
 	path = arch/arm64/boot/dts/vendor
-	url = https://github.com/MotorolaMobilityLLC/kernel-devicetree
+	url = https://github.com/Nobooooody/kernel-devicetree
